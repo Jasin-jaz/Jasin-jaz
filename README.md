@@ -8,7 +8,7 @@
 
 👨‍💻 Portfolio [https://muhammedjasintp-portfolio.netlify.app/](https://muhammedjasintp-portfolio.netlify.app/)
 
-💬 Ask me about **React JS, Python, Flask, Django, Django Rest Framework, HTML, CSS, PHP, JavaScript and Bootstrap**
+💬 Ask me about **React JS, Python, Flask, Django Rest Framework, HTML, CSS, PHP, JavaScript and Bootstrap**
 
 📫 How to reach me **jasintp707@gmail.com**
 
