@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&duration=4000&pause=1000&width=400&lines=Hi+There%F0%9F%91%8B;I'm+Muhammed+Jasin+T+P" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&duration=4000&pause=1000&width=300&lines=Hi+There%F0%9F%91%8B;I'm+Muhammed+Jasin+T+P" alt="Typing SVG" />
 </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVvdG5uNnIzMjVkaXA3Y2dkOWtqOWdoNDdtemt0dTJnb3R6a2I1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
