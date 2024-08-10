@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **jasintp707@gmail.com**
 
-- 📄 Know about my experiences [https://muhammedjasintp-portfolio.netlify.app/images/JASIN_RESUME.pdf](https://muhammedjasintp-portfolio.netlify.app/images/JASIN_RESUME.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/jazin_jaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jazin_jaz" height="30" width="40" /></a>
