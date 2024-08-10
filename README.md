@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasin-jaz&label=Profile%20views&color=0e75b6&style=flat" alt="jasin-jaz" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jaz_jazin" target="blank"><img src="https://img.shields.io/twitter/follow/jaz_jazin?logo=twitter&style=for-the-badge" alt="jaz_jazin" /></a> </p>
-
 - 👨‍💻 portfolio [https://muhammedjasintp-portfolio.netlify.app/](https://muhammedjasintp-portfolio.netlify.app/)
 
 - 💬 Ask me about **React JS, Python, Flask, Django, Django Rest Framework, HTML, CSS, PHP, JavaScript and Bootstrap**
