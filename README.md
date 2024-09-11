@@ -8,6 +8,8 @@
 
 👨‍💻 Portfolio [https://muhammedjasintp-portfolio.netlify.app/](https://muhammedjasintp-portfolio.netlify.app/)
 
+🌱 I’m currently learning dotnet and express. 
+
 💬 Ask me about **React JS, Python, Flask, Django Rest Framework, HTML, CSS, PHP, JavaScript and Bootstrap**
 
 📫 How to reach me **jasintp707@gmail.com**
