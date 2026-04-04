@@ -6,11 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasin-jaz&label=Profile%20views&color=0e75b6&style=flat" alt="jasin-jaz" /> </p>
 
-👨‍💻 Portfolio [https://muhammedjasintp-portfolio.netlify.app/](https://muhammedjasintp-portfolio.netlify.app/)
+👨‍💻 Portfolio [https://muhammedjasintp-portfolio.netlify.app/](https://muhammedjasintp-portfolio.netlify.app/) 
 
-🌱 I’m currently learning dotnet. 
-
-💬 Ask me about **React JS, Python, Flask, Django Rest Framework, HTML, CSS, PHP, JavaScript and Bootstrap**
+💬 Ask me about **Dotnet, React JS, Python, Flask, Django Rest Framework, HTML, CSS, PHP, JavaScript and Bootstrap**
 
 📫 How to reach me **jasintp707@gmail.com**
 
